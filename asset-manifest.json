@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SecretChat/static/css/main.58e70b90.chunk.css",
-    "main.js": "/SecretChat/static/js/main.b5e8f653.chunk.js",
-    "main.js.map": "/SecretChat/static/js/main.b5e8f653.chunk.js.map",
+    "main.js": "/SecretChat/static/js/main.6e8fb0ee.chunk.js",
+    "main.js.map": "/SecretChat/static/js/main.6e8fb0ee.chunk.js.map",
     "runtime-main.js": "/SecretChat/static/js/runtime-main.5e98fc50.js",
     "runtime-main.js.map": "/SecretChat/static/js/runtime-main.5e98fc50.js.map",
     "static/js/2.736f77d7.chunk.js": "/SecretChat/static/js/2.736f77d7.chunk.js",
     "static/js/2.736f77d7.chunk.js.map": "/SecretChat/static/js/2.736f77d7.chunk.js.map",
     "index.html": "/SecretChat/index.html",
-    "precache-manifest.177c8ca7bc16a00f4c9e43d3aa55249a.js": "/SecretChat/precache-manifest.177c8ca7bc16a00f4c9e43d3aa55249a.js",
+    "precache-manifest.90055b8ddc2ece69243bdeb52853a53b.js": "/SecretChat/precache-manifest.90055b8ddc2ece69243bdeb52853a53b.js",
     "service-worker.js": "/SecretChat/service-worker.js",
     "static/css/main.58e70b90.chunk.css.map": "/SecretChat/static/css/main.58e70b90.chunk.css.map",
     "static/js/2.736f77d7.chunk.js.LICENSE.txt": "/SecretChat/static/js/2.736f77d7.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5e98fc50.js",
     "static/js/2.736f77d7.chunk.js",
     "static/css/main.58e70b90.chunk.css",
-    "static/js/main.b5e8f653.chunk.js"
+    "static/js/main.6e8fb0ee.chunk.js"
   ]
 }

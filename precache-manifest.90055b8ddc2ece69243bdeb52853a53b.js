@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e107ffc680a317298bc0038fe39a3e2",
+    "revision": "0f681d6d799e3cd16820294078788bbe",
     "url": "/SecretChat/index.html"
   },
   {
-    "revision": "3a13e519cc72404adefc",
+    "revision": "1c8ee2d9c5d2e4012b81",
     "url": "/SecretChat/static/css/main.58e70b90.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SecretChat/static/js/2.736f77d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a13e519cc72404adefc",
-    "url": "/SecretChat/static/js/main.b5e8f653.chunk.js"
+    "revision": "1c8ee2d9c5d2e4012b81",
+    "url": "/SecretChat/static/js/main.6e8fb0ee.chunk.js"
   },
   {
     "revision": "0f92510a686ad10bc45e",

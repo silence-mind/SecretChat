@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SecretChat/precache-manifest.177c8ca7bc16a00f4c9e43d3aa55249a.js"
+  "/SecretChat/precache-manifest.90055b8ddc2ece69243bdeb52853a53b.js"
 );
 
 self.addEventListener('message', (event) => {
