@@ -10,7 +10,7 @@ import Login from "./Login/Login";
 function App() {
   return (
     <div style={{ fontFamily: "Avenir" }}>
-      <Router>
+      <Router basename="/tothepoint_login">
         <AuthProvider>
           <Switch>
             <Route path="/chats" component={Chats} />
